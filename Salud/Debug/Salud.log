@@ -1,0 +1,39 @@
+﻿  Atencion.cpp
+C:\Users\Frank\Desktop\Salud\Salud\Datos.h(600,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  vea la declaración de 'fopen'
+C:\Users\Frank\Desktop\Salud\Salud\Atencion.h(746,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  vea la declaración de 'fopen'
+C:\Users\Frank\Desktop\Salud\Salud\Atencion.h(823,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  vea la declaración de 'fopen'
+C:\Users\Frank\Desktop\Salud\Salud\Atencion.h(829,1): warning C4996:  'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(440): message :  vea la declaración de 'strtok'
+C:\Users\Frank\Desktop\Salud\Salud\Atencion.h(841,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  vea la declaración de 'fopen'
+C:\Users\Frank\Desktop\Salud\Salud\Atencion.h(845,1): warning C4996:  'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(440): message :  vea la declaración de 'strtok'
+C:\Users\Frank\Desktop\Salud\Salud\Atencion.h(824,8): warning C4101:  'cadena': variable local sin referencia
+C:\Users\Frank\Desktop\Salud\Salud\Atencion.h(861,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  vea la declaración de 'fopen'
+C:\Users\Frank\Desktop\Salud\Salud\Atencion.h(927,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Inicio.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  vea la declaración de 'fopen'
+C:\Users\Frank\Desktop\Salud\Salud\Datos.h(600,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  vea la declaración de 'fopen'
+C:\Users\Frank\Desktop\Salud\Salud\Atencion.h(746,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  vea la declaración de 'fopen'
+C:\Users\Frank\Desktop\Salud\Salud\Atencion.h(823,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  vea la declaración de 'fopen'
+C:\Users\Frank\Desktop\Salud\Salud\Atencion.h(829,1): warning C4996:  'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(440): message :  vea la declaración de 'strtok'
+C:\Users\Frank\Desktop\Salud\Salud\Atencion.h(841,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  vea la declaración de 'fopen'
+C:\Users\Frank\Desktop\Salud\Salud\Atencion.h(845,1): warning C4996:  'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(440): message :  vea la declaración de 'strtok'
+C:\Users\Frank\Desktop\Salud\Salud\Atencion.h(824,8): warning C4101:  'cadena': variable local sin referencia
+C:\Users\Frank\Desktop\Salud\Salud\Atencion.h(861,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  vea la declaración de 'fopen'
+C:\Users\Frank\Desktop\Salud\Salud\Atencion.h(927,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generando código...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  vea la declaración de 'fopen'
+  Atencion.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Salud.vcxproj -> C:\Users\Frank\Desktop\Salud\Debug\Salud.exe
